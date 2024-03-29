@@ -1,6 +1,6 @@
 # Licença MIT (MIT License)
 
-Direitos Autorais (c) [2024] [VEGASCHNL]
+Direitos Autorais (c) 2024 VEGASCHNL
 
 A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
 deste software e dos arquivos de documentação associados (o "Software"), para lidar
@@ -24,7 +24,7 @@ SOFTWARE.
 
 # MIT License
 
-Copyright (c) [2024] [VEGASCHNL]
+Copyright (c) 2024 VEGASCHNL
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
